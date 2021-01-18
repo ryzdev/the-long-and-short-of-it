@@ -137,6 +137,108 @@
 </node>
 </node>
 </node>
+<node CREATED="1610983718368" ID="ID_1070958283" MODIFIED="1610983723973" POSITION="right" TEXT="Investment options">
+<node CREATED="1610983759232" ID="ID_816855269" MODIFIED="1610983762151" TEXT="shares">
+<node CREATED="1610983762152" ID="ID_1521537985" MODIFIED="1610983785595" TEXT="do not actually represent ownership, but rights"/>
+<node CREATED="1610983856201" ID="ID_889255190" MODIFIED="1610983870340" TEXT="key metrics in share valuation">
+<node CREATED="1610626298520" ID="ID_440687655" MODIFIED="1610983880986" TEXT="P/E price:earnings ratio">
+<node CREATED="1610626319654" ID="ID_857241667" MODIFIED="1610626377491" TEXT="share price &#xf7; EPS">
+<node CREATED="1610626462344" ID="ID_124537360" MODIFIED="1610626485562" TEXT="essentially the amount to pay for &#xa3;1 of earnings"/>
+<node CREATED="1610626377492" ID="ID_486144398" MODIFIED="1610626441151" TEXT="high suggests overvalued or expecting growth in the future"/>
+<node CREATED="1610626450412" ID="ID_827665505" MODIFIED="1610626459690" TEXT="low suggests undervalued or doing very well"/>
+</node>
+</node>
+<node CREATED="1610373738328" ID="ID_638294523" MODIFIED="1610983907788" TEXT="yield">
+<node CREATED="1610471115733" ID="ID_151905048" MODIFIED="1610471132530" TEXT="simple yield = income / price">
+<node CREATED="1610471136742" ID="ID_1800776941" MODIFIED="1610471183557" TEXT="e.g. &#xa3;75 investment with &#xa3;3 return = 4%"/>
+</node>
+</node>
+<node CREATED="1610984076422" ID="ID_1856297162" MODIFIED="1610984078369" TEXT="Lower price:earnings ratios and higher dividend yields">
+<node CREATED="1610984099683" ID="ID_1256154102" MODIFIED="1610984100372" TEXT="indication of slower growth"/>
+</node>
+</node>
+<node CREATED="1610984273991" ID="ID_1637139604" MODIFIED="1610984281300" TEXT="share value">
+<node CREATED="1610984285569" ID="ID_1583355576" MODIFIED="1610984300138" TEXT="partly determined by company fundamentals"/>
+<node CREATED="1610984301720" ID="ID_1205538092" MODIFIED="1610984313999" TEXT="determined by">
+<node CREATED="1610984314000" ID="ID_1956933653" MODIFIED="1610984322465" TEXT="company fundamentals">
+<node CREATED="1610984357257" ID="ID_1099344967" MODIFIED="1610984394958" TEXT="assets, earnings, cash flow, dividends, brand, competitive position, management etc"/>
+</node>
+<node CREATED="1610984322921" ID="ID_1720157303" MODIFIED="1610984335135" TEXT="market sentiment towards company"/>
+</node>
+<node CREATED="1610984173725" ID="ID_1548884982" MODIFIED="1610984187141" TEXT="random fluctuations in price known as &apos;noise">
+<node CREATED="1610984228006" ID="ID_1418896137" MODIFIED="1610984252150" TEXT="a lot of hunch, gossip, tip sheet and instructional books aimed at &apos;noise traders&apos;"/>
+</node>
+</node>
+</node>
+<node CREATED="1610985235995" ID="ID_500546422" MODIFIED="1610986082324" TEXT="bonds">
+<node CREATED="1610985238725" ID="ID_1854706500" MODIFIED="1610985257437" TEXT="have an interest rate and a maturity date">
+<node CREATED="1610985257438" ID="ID_1184239430" MODIFIED="1610985288984" TEXT="return only guaranteed if held until maturity date">
+<node CREATED="1610985288985" ID="ID_1531491014" MODIFIED="1610985296095" TEXT="else need to sell to someone else">
+<node CREATED="1610985307859" ID="ID_1294459430" MODIFIED="1610985321431" TEXT="price dependant on interest rates"/>
+</node>
+</node>
+</node>
+<node CREATED="1610985473272" ID="ID_1928164825" MODIFIED="1610985476592" TEXT="GRY">
+<node CREATED="1610985476593" ID="ID_593254818" MODIFIED="1610985486668" TEXT="Gross Redemption Yield">
+<node CREATED="1610985486669" ID="ID_1950971758" MODIFIED="1610985508728" TEXT="total yield considering start and finish price"/>
+</node>
+<node CREATED="1610985512995" ID="ID_112972150" MODIFIED="1610985592195" TEXT="e.g. EUR 100 2.5% 30 year Bund currently EUR 147">
+<node CREATED="1610985564042" ID="ID_1730877392" MODIFIED="1610985671884" TEXT="therefore 2.5% is actually 1.7% (2.5/147)"/>
+<node CREATED="1610985700623" ID="ID_1956663529" MODIFIED="1610985777117" TEXT="factor in EUR 47 loss now 0.7% (maths???)">
+<icon BUILTIN="yes"/>
+</node>
+</node>
+</node>
+<node CREATED="1610985795477" ID="ID_1159027647" MODIFIED="1610985818821" TEXT="Sometimes even with a negative yield bonds are the safest way to safeguard cash"/>
+<node CREATED="1610985975147" ID="ID_1967015336" MODIFIED="1610985996086" TEXT="bonds provide certainty of cash return">
+<node CREATED="1610986023496" ID="ID_1652252584" MODIFIED="1610986048202" TEXT="only indexed bonds provide certainty of real return"/>
+</node>
+</node>
+<node CREATED="1610986082593" ID="ID_135235808" MODIFIED="1610986086076" TEXT="real estate">
+<node CREATED="1610986089233" ID="ID_685768413" MODIFIED="1610986136384" TEXT="an owner owns both the property and the land it is on">
+<node CREATED="1610986103214" ID="ID_311562111" MODIFIED="1610986244726" TEXT="where land more valuable, maybe more profitable to demolish and rebuild"/>
+</node>
+<node CREATED="1610986389654" ID="ID_577126814" MODIFIED="1610986393180" TEXT="equity ">
+<node CREATED="1610986393181" ID="ID_1070905803" MODIFIED="1610986410559" TEXT="difference between property value and loan"/>
+</node>
+<node CREATED="1610986495865" ID="ID_87850264" MODIFIED="1610986503104" TEXT="leverage goes in both directions"/>
+<node CREATED="1610986550986" ID="ID_1007119610" MODIFIED="1610987978173" TEXT="buy-to-let">
+<icon BUILTIN="idea"/>
+<node CREATED="1610986601420" ID="ID_823577757" MODIFIED="1610986641666" TEXT="only low-risk if a modest part of a larger portfolio"/>
+<node CREATED="1610986783561" ID="ID_1345953201" MODIFIED="1610986802012" TEXT="institutional investors today prefer commercial property">
+<node CREATED="1610986815469" ID="ID_392283043" MODIFIED="1610986830263" TEXT="expensive, but anyone can access through funds"/>
+</node>
+</node>
+<node CREATED="1610986894047" ID="ID_1304226658" MODIFIED="1610986921746" TEXT="large estates are no longer assets but liabilities">
+<node CREATED="1610986922907" ID="ID_1197394186" MODIFIED="1610986935237" TEXT="most businesses rent their premises"/>
+</node>
+</node>
+<node CREATED="1610986970772" ID="ID_1448175361" MODIFIED="1610986972745" TEXT="funds">
+<node CREATED="1610987149123" ID="ID_1267578247" MODIFIED="1610987331919" TEXT="open-end">
+<node CREATED="1610987154691" ID="ID_170435556" MODIFIED="1610987171716" TEXT="each investor owns a fraction of the portfolio"/>
+<node CREATED="1610987210328" ID="ID_344047394" MODIFIED="1610987461807" TEXT="expands and contracts with purchases and redemption"/>
+</node>
+<node CREATED="1610987318190" ID="ID_987451038" MODIFIED="1610987337392" TEXT="closed-end">
+<node CREATED="1610987337393" ID="ID_295313453" MODIFIED="1610987375365" TEXT="usually a company with shares quoted on a stock exchange"/>
+<node CREATED="1610987478931" ID="ID_1581757947" MODIFIED="1610987492315" TEXT="size determined by initial amount and investment performance"/>
+<node CREATED="1610987591747" ID="ID_642603576" MODIFIED="1610987607433" TEXT="share value can be more or less than underlying asset value">
+<node CREATED="1610987630894" ID="ID_161462749" MODIFIED="1610987632806" TEXT="You can sometimes buy out-of-favour funds at substantial discounts"/>
+<node CREATED="1610987641598" ID="ID_478233730" MODIFIED="1610987642318" TEXT="Closed-end funds involve extra risks but also extra opportunities"/>
+</node>
+</node>
+<node CREATED="1610987753848" ID="ID_485069087" MODIFIED="1610987759421" TEXT="actively managed funds">
+<node CREATED="1610987686986" ID="ID_1711996943" MODIFIED="1610987768443" TEXT="most funds are actively managed by a fund manager"/>
+</node>
+<node CREATED="1610987740227" ID="ID_1856288792" MODIFIED="1610987752412" TEXT="passive funds">
+<node CREATED="1610987771169" ID="ID_653606078" MODIFIED="1610987787604" TEXT="replicate the performance of an index">
+<node CREATED="1610987834198" ID="ID_1496310926" MODIFIED="1610987841578" TEXT="e.g. ETFs">
+<node CREATED="1610987843090" ID="ID_1822350254" MODIFIED="1610987870129" TEXT="trustworthiness varies greatly"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610987923753" ID="ID_1341545116" MODIFIED="1610987927916" POSITION="right" TEXT="Efficient markets"/>
 <node CREATED="1610286576539" ID="ID_1642522525" MODIFIED="1610286578875" POSITION="right" TEXT="glossary">
 <node CREATED="1610286578876" ID="ID_838658339" MODIFIED="1610286590050" TEXT="financial institutions">
 <node CREATED="1610286590051" ID="ID_1494650066" MODIFIED="1610286592665" TEXT="retail banks">
@@ -169,6 +271,14 @@
 </node>
 <node CREATED="1610373837645" ID="ID_1010573332" MODIFIED="1610472050351" TEXT="concept stocks">
 <node CREATED="1610373842895" ID="ID_344690051" MODIFIED="1610377051683" TEXT="based on bright ideas or unproven technology"/>
+</node>
+<node CREATED="1610625552997" ID="ID_21347300" MODIFIED="1610625560436" TEXT="EPS Earnings Per Share">
+<node CREATED="1610625560437" ID="ID_1655261650" MODIFIED="1610625585685" TEXT="a companies net profit divided by number of shares"/>
+</node>
+<node CREATED="1610987878441" ID="ID_498072382" MODIFIED="1610987882717" TEXT="ETF">
+<node CREATED="1610987882718" ID="ID_829724672" MODIFIED="1610987904034" TEXT="exchange-traded fund">
+<node CREATED="1610987904035" ID="ID_1747562067" MODIFIED="1610987908727" TEXT="a type of passive fund"/>
+</node>
 </node>
 <node CREATED="1610373412632" ID="ID_765903013" MODIFIED="1610472095444" TEXT="inflation rate">
 <node CREATED="1610469363802" ID="ID_1166644005" MODIFIED="1610469372099" TEXT="rate at which prices increase">
@@ -215,6 +325,9 @@
 <node CREATED="1610374440889" ID="ID_1549897269" MODIFIED="1610472012068" TEXT="mutual fund"/>
 </node>
 </node>
+<node CREATED="1610987028357" ID="ID_1636503880" MODIFIED="1610987032244" TEXT="open-ended funds">
+<node CREATED="1610987032245" ID="ID_306299751" MODIFIED="1610987075346" TEXT="aka mutual funds (USA), unit trusts or OEICs (UK), SICAVs (Europe)"/>
+</node>
 <node CREATED="1610374428162" ID="ID_588517415" MODIFIED="1610472111840" TEXT="retail investors">
 <node CREATED="1610471757784" ID="ID_1225468381" MODIFIED="1610471772152" TEXT="aka non-institutional / private investors">
 <node CREATED="1610471774590" ID="ID_1853773380" MODIFIED="1610471789690" TEXT="trade with their own portfolio, not a companies"/>
@@ -253,16 +366,6 @@
 </node>
 </node>
 </node>
-<node CREATED="1610373738328" ID="ID_638294523" MODIFIED="1610373740711" TEXT="yield">
-<node CREATED="1610471115733" ID="ID_151905048" MODIFIED="1610471132530" TEXT="simple yield = income / price">
-<node CREATED="1610471136742" ID="ID_1800776941" MODIFIED="1610471183557" TEXT="e.g. &#xa3;75 investment with &#xa3;3 return = 4%"/>
-</node>
-</node>
-</node>
-<node CREATED="1610377138509" ID="ID_1369957126" MODIFIED="1610377140889" POSITION="left" TEXT="next">
-<node CREATED="1610377141956" ID="ID_1661381439" MODIFIED="1610377152287" TEXT="finish glossary"/>
-<node CREATED="1610377152605" ID="ID_841285875" MODIFIED="1610377165299" TEXT="tidy and tag info so far"/>
-<node CREATED="1610377165597" ID="ID_1730315430" MODIFIED="1610377169024" TEXT="continue ch 3"/>
 </node>
 </node>
 </map>
