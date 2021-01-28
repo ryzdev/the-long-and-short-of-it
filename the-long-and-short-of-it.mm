@@ -184,8 +184,8 @@
 </node>
 <node CREATED="1610985512995" ID="ID_112972150" MODIFIED="1610985592195" TEXT="e.g. EUR 100 2.5% 30 year Bund currently EUR 147">
 <node CREATED="1610985564042" ID="ID_1730877392" MODIFIED="1610985671884" TEXT="therefore 2.5% is actually 1.7% (2.5/147)"/>
-<node CREATED="1610985700623" ID="ID_1956663529" MODIFIED="1610985777117" TEXT="factor in EUR 47 loss now 0.7% (maths???)">
-<icon BUILTIN="yes"/>
+<node CREATED="1610985700623" ID="ID_1956663529" MODIFIED="1611856610279" TEXT="factor in EUR 47 loss now 0.7% (maths???)">
+<icon BUILTIN="help"/>
 </node>
 </node>
 </node>
@@ -238,7 +238,106 @@
 </node>
 </node>
 </node>
-<node CREATED="1610987923753" ID="ID_1341545116" MODIFIED="1610987927916" POSITION="right" TEXT="Efficient markets"/>
+<node CREATED="1610987923753" ID="ID_1341545116" MODIFIED="1611854872128" POSITION="right" TEXT="Efficient markets">
+<node CREATED="1611680151914" ID="ID_1435923416" MODIFIED="1611680153532" TEXT="value">
+<node CREATED="1611680159424" ID="ID_234007046" MODIFIED="1611680163466" TEXT="two approaches">
+<node CREATED="1611680163467" ID="ID_1050591463" MODIFIED="1611680172481" TEXT="mark-to-market">
+<node CREATED="1611680172482" ID="ID_425406950" MODIFIED="1611680179684" TEXT="value = what someone is willing to pay"/>
+<node CREATED="1611680226609" ID="ID_1427934620" MODIFIED="1611854510983" TEXT="easier to grasp and measure">
+<node CREATED="1611854478277" ID="ID_570345316" MODIFIED="1611854506625" TEXT="can be a mistake to emphasise this just because its easier to measure"/>
+<node CREATED="1611680233148" ID="ID_1843273947" MODIFIED="1611680321648" TEXT="but sometimes being approximately right is more valuable than being precisely wrong"/>
+</node>
+</node>
+<node CREATED="1611680181714" ID="ID_1767470755" MODIFIED="1611680188031" TEXT="fundamental value">
+<node CREATED="1611680188032" ID="ID_1642755244" MODIFIED="1611854522873" TEXT="value = the cash an asset will generate over it&apos;s life"/>
+</node>
+<node CREATED="1611680353844" ID="ID_1918967972" MODIFIED="1611680371945" TEXT="can possibly be reconciled">
+<node CREATED="1611680371946" ID="ID_1089995199" MODIFIED="1611856487105" TEXT="maket value is the average of votes on fundamental value">
+<node CREATED="1611680465710" ID="ID_517182870" MODIFIED="1611680478594" TEXT="if this were true markets would be efficient"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1611680534972" ID="ID_1808597222" MODIFIED="1611854866575" TEXT="three forms of the EMH">
+<node CREATED="1611680538561" ID="ID_445737949" MODIFIED="1611680541343" TEXT="weak">
+<node CREATED="1611680547280" ID="ID_823423502" MODIFIED="1611680580663" TEXT="past price movements have no bearing on future movements">
+<node CREATED="1611682823144" ID="ID_219299125" MODIFIED="1611682830374" TEXT="also illuminating but not true"/>
+</node>
+<node CREATED="1611681271393" ID="ID_913963814" MODIFIED="1611681296778" TEXT="market price follows a &apos;random walk&apos;">
+<node CREATED="1611681315788" ID="ID_1916691214" MODIFIED="1611681322359" TEXT="markets have no memory">
+<node CREATED="1611681322360" ID="ID_506545916" MODIFIED="1611681327511" TEXT="but commentators do"/>
+</node>
+</node>
+<node CREATED="1611682355265" ID="ID_643263595" MODIFIED="1611855121675" TEXT="price contains all data about peoples opinions towards price movements">
+<node CREATED="1611682415657" ID="ID_64489833" MODIFIED="1611682422831" TEXT="NOT their opinions about value"/>
+</node>
+<node CREATED="1611682486756" ID="ID_611420838" MODIFIED="1611682589948" TEXT="once the expected impact of future changes is equally positive and negative, price will move randomly">
+<node CREATED="1611853050749" ID="ID_1185271656" MODIFIED="1611853073102" TEXT="properly anticipated prices fluctuate randomly"/>
+</node>
+</node>
+<node CREATED="1611680541528" ID="ID_1338005719" MODIFIED="1611680544477" TEXT="semi-strong">
+<node CREATED="1611680588129" ID="ID_1429693949" MODIFIED="1611680598957" TEXT="all public information is contained in the price">
+<node CREATED="1611681537276" ID="ID_1584851732" MODIFIED="1611681553642" TEXT="claims new analysis might be valuable"/>
+<node CREATED="1611681577638" ID="ID_1626681152" MODIFIED="1611681585265" TEXT="e.g. insider trading">
+<node CREATED="1611681622109" ID="ID_982853566" MODIFIED="1611681636442" TEXT="be wary of sustained price movements which have no explanation"/>
+</node>
+</node>
+</node>
+<node CREATED="1611680544715" ID="ID_585889969" MODIFIED="1611680546161" TEXT="strong">
+<node CREATED="1611680600920" ID="ID_1840723124" MODIFIED="1611680622472" TEXT="all available information is contained in the price">
+<node CREATED="1611854218287" ID="ID_99139835" MODIFIED="1611854230054" TEXT="aka &apos;rational expectations&apos; argument"/>
+<node CREATED="1611681431538" ID="ID_331835880" MODIFIED="1611681517711" TEXT="essentially claims all analysis or investment skill is meaningless">
+<node CREATED="1611854129631" ID="ID_1384713122" MODIFIED="1611854607079" TEXT="history&apos;s greatest investors are just lucky"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1611681336336" ID="ID_1463386401" MODIFIED="1611856078691" TEXT="all illuminating but not true">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1611682913094" ID="ID_1423717883" MODIFIED="1611856271503" TEXT="statistically likely divergences from fundamental value">
+<icon BUILTIN="idea"/>
+<node CREATED="1611682737532" ID="ID_1545121765" MODIFIED="1611682925154" TEXT="momentum">
+<node CREATED="1611682740535" ID="ID_638563909" MODIFIED="1611682750775" TEXT="short-term positive correlation"/>
+<node CREATED="1611682939659" ID="ID_272602105" MODIFIED="1611856216555" TEXT="over a day, week or month, movements slightly more likely to continue"/>
+<node CREATED="1611853886675" ID="ID_630623145" MODIFIED="1611853901301" TEXT="maps to trading by understanding market sentiment">
+<node CREATED="1611854021122" ID="ID_1429206636" MODIFIED="1611854025159" TEXT="e.g. George Soros"/>
+</node>
+</node>
+<node CREATED="1611683112132" ID="ID_1205628351" MODIFIED="1611683115144" TEXT="mean reversion">
+<node CREATED="1611683117531" ID="ID_1017660005" MODIFIED="1611683124361" TEXT="long-term negative correlation"/>
+<node CREATED="1611683138128" ID="ID_1993323543" MODIFIED="1611683203231" TEXT="in 3-5 years, movements are more likely to reverse"/>
+<node CREATED="1611853902463" ID="ID_1277690811" MODIFIED="1611854357884" TEXT="maps to trading by understanding fundamental value">
+<node CREATED="1611854014556" ID="ID_938719805" MODIFIED="1611854019828" TEXT="e.g. Warren Buffet"/>
+<node CREATED="1611854359262" ID="ID_205948873" MODIFIED="1611854391912" TEXT="still using market sentiment to find assets underpriced relative to fundamental value"/>
+</node>
+</node>
+<node CREATED="1611854696539" ID="ID_132392249" MODIFIED="1611854713764" TEXT="no way to know when these things will happen">
+<node CREATED="1611854713765" ID="ID_1690811501" MODIFIED="1611854721878" TEXT="otherwise guaranteed way to make money"/>
+</node>
+</node>
+<node CREATED="1611683263429" ID="ID_1208783861" MODIFIED="1611683275060" TEXT="market prices measure prevailing market sentiment">
+<node CREATED="1611683281153" ID="ID_1100091852" MODIFIED="1611683298202" TEXT="general knowledge is &apos;in the price&apos;">
+<node CREATED="1611683336278" ID="ID_1439762914" MODIFIED="1611854782867" TEXT="&apos;consensus forecast&apos;"/>
+<node CREATED="1611854762171" ID="ID_742077310" MODIFIED="1611854775890" TEXT="e.g. Apple is a good company"/>
+<node CREATED="1611683298203" ID="ID_1237182119" MODIFIED="1611683301672" TEXT="not useful to investors"/>
+</node>
+</node>
+<node CREATED="1611853270328" ID="ID_939659649" MODIFIED="1611853276140" TEXT="information assymetry">
+<node CREATED="1611853276141" ID="ID_555167276" MODIFIED="1611853296801" TEXT="information plays a central role in securities markets">
+<node CREATED="1611853416727" ID="ID_1681922860" MODIFIED="1611853421999" TEXT="e.g. lemon markets">
+<node CREATED="1611853426631" ID="ID_1105679094" MODIFIED="1611853429757" TEXT="winners curse"/>
+</node>
+<node CREATED="1611853508542" ID="ID_1805210650" MODIFIED="1611853517324" TEXT="why do I want to buy what they want to sell?">
+<node CREATED="1611853517861" ID="ID_1968300956" MODIFIED="1611853537297" TEXT="e,g. wallet auction"/>
+<node CREATED="1611853544797" ID="ID_1704829254" MODIFIED="1611853558865" TEXT="sellers of securities have the advantage over buyers"/>
+<node CREATED="1611853707778" ID="ID_956670006" MODIFIED="1611853723165" TEXT="merkets characterised by differential information are reflexive">
+<node CREATED="1611853750503" ID="ID_1505744200" MODIFIED="1611853763694" TEXT="e.g. buying and selling may reveal what people think"/>
+</node>
+</node>
+</node>
+</node>
+</node>
 <node CREATED="1610286576539" ID="ID_1642522525" MODIFIED="1610286578875" POSITION="right" TEXT="glossary">
 <node CREATED="1610286578876" ID="ID_838658339" MODIFIED="1610286590050" TEXT="financial institutions">
 <node CREATED="1610286590051" ID="ID_1494650066" MODIFIED="1610286592665" TEXT="retail banks">
