@@ -338,6 +338,107 @@
 </node>
 </node>
 </node>
+<node CREATED="1612806478819" ID="ID_1634992755" MODIFIED="1612806486230" POSITION="right" TEXT="The Mind of the Market">
+<node CREATED="1612806486784" ID="ID_1911604621" MODIFIED="1612806527944" TEXT="2 metaphors">
+<node CREATED="1612806527945" ID="ID_1393312297" MODIFIED="1612806534585" TEXT="the market as a voting machine">
+<node CREATED="1612806537686" ID="ID_756471508" MODIFIED="1612806540399" TEXT="democratic"/>
+</node>
+<node CREATED="1612806541468" ID="ID_859574075" MODIFIED="1612806562190" TEXT="&apos;Mr Market&apos;">
+<node CREATED="1612806562603" ID="ID_100764214" MODIFIED="1612806581324" TEXT="heirarchical">
+<node CREATED="1612806597352" ID="ID_1823299269" MODIFIED="1612806606217" TEXT="There is no Mr Market">
+<node CREATED="1612806619764" ID="ID_1736162181" MODIFIED="1612806634783" TEXT="is what people believe the mind of the market to be">
+<node CREATED="1612806648360" ID="ID_1393576403" MODIFIED="1612806659412" TEXT="potentially rewarding investment strategy">
+<node CREATED="1612806660004" ID="ID_5041253" MODIFIED="1612806664478" TEXT="some are good at it"/>
+<node CREATED="1612806664904" ID="ID_1861560999" MODIFIED="1612806670667" TEXT="many more think they are good at it"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1612806707832" ID="ID_1475771713" MODIFIED="1612806711948" TEXT="Technical analysis">
+<node CREATED="1612806711949" ID="ID_1107922117" MODIFIED="1612806724590" TEXT="has a terrible reputation among academics"/>
+<node CREATED="1612806735485" ID="ID_512354536" MODIFIED="1612806755162" TEXT="most chartist, gurus and secret systems are charlatans">
+<icon BUILTIN="idea"/>
+<node CREATED="1612806771869" ID="ID_290280949" MODIFIED="1612806800819" TEXT="very little evidence that these systems can be used with sustained success"/>
+</node>
+<node CREATED="1612806804209" ID="ID_1345046188" MODIFIED="1612806843105" TEXT="noone really believes price movements are random">
+<node CREATED="1612806849394" ID="ID_1030938105" MODIFIED="1612806868249" TEXT="but so complex usually described as random"/>
+</node>
+</node>
+<node CREATED="1612806891991" ID="ID_557201782" MODIFIED="1612806942015" TEXT="this book deals with a theory of finance">
+<node CREATED="1612806942016" ID="ID_189769426" MODIFIED="1612806962286" TEXT="developed in Chicago starting 50 years ago"/>
+<node CREATED="1612806974644" ID="ID_1692743679" MODIFIED="1612806989051" TEXT="currently pressured from 2 sides">
+<node CREATED="1612806989666" ID="ID_4766493" MODIFIED="1612807007219" TEXT="behavioral economics and applied psychology">
+<node CREATED="1612807272011" ID="ID_106000259" MODIFIED="1612807295752" TEXT="intuition, honed skills, market info and years of experience"/>
+</node>
+<node CREATED="1612807007797" ID="ID_1794674815" MODIFIED="1612807057706" TEXT="mathematics and high frequency trading">
+<node CREATED="1612807304607" ID="ID_1254646827" MODIFIED="1612807323654" TEXT="the best minds and computing resources and lower trading costs"/>
+</node>
+<node CREATED="1612807195937" ID="ID_1218650502" MODIFIED="1612807206100" TEXT="paradoxically they are 2 sides of the same coin"/>
+<node CREATED="1612807244341" ID="ID_1021451690" MODIFIED="1613057715183" TEXT="you cannot compete with either">
+<icon BUILTIN="idea"/>
+<node CREATED="1612807346725" ID="ID_805984303" MODIFIED="1612807369272" TEXT="but you do have an advantage with fundamental value"/>
+</node>
+</node>
+</node>
+<node CREATED="1613056159302" ID="ID_1489813164" MODIFIED="1613056167679" TEXT="asset bubbles">
+<node CREATED="1613056186719" ID="ID_8507354" MODIFIED="1613056210013" TEXT="when the price people are willing to pay greatly exceeds fundamental value"/>
+<node CREATED="1613056244779" ID="ID_1717347603" MODIFIED="1613056252059" TEXT="a human tendency towards enthusiasm">
+<node CREATED="1613056260659" ID="ID_1547233087" MODIFIED="1613056281838" TEXT="the belief that you can always sell for more"/>
+</node>
+<node CREATED="1613056309092" ID="ID_198676162" MODIFIED="1613056318107" TEXT="not the same as asset mispricing">
+<node CREATED="1613056318108" ID="ID_1469606617" MODIFIED="1613056322877" TEXT="a mistake in pricing">
+<node CREATED="1613056322878" ID="ID_1739607090" MODIFIED="1613056333248" TEXT="opportunity for intelligent investors"/>
+</node>
+</node>
+<node CREATED="1613056355502" ID="ID_730086904" MODIFIED="1613056388177" TEXT="most traders in bubbles not concerned with fundamental value">
+<node CREATED="1613056388177" ID="ID_1974922091" MODIFIED="1613056399262" TEXT="just planning to resell soon for profit"/>
+</node>
+</node>
+<node CREATED="1613056467226" ID="ID_185981881" MODIFIED="1613056473581" TEXT="conventional thinking">
+<node CREATED="1613056474639" ID="ID_229998953" MODIFIED="1613056494767" TEXT="it&apos;s reasonable to believe what is widely believed">
+<node CREATED="1613056494768" ID="ID_1841647040" MODIFIED="1613056553880" TEXT="without verifying for yourself"/>
+</node>
+<node CREATED="1613056561249" ID="ID_1105502758" MODIFIED="1613057750099" TEXT="distortions are also supported by commercial interests"/>
+<node CREATED="1613056593987" ID="ID_1220202365" MODIFIED="1613056644341" TEXT="even bubbles contain a kernel of truth but greatly overestimated">
+<node CREATED="1613056656798" ID="ID_304205165" MODIFIED="1613056665011" TEXT="pace of change"/>
+<node CREATED="1613056665385" ID="ID_617255795" MODIFIED="1613057766559" TEXT="the individual profit opportunity of change"/>
+</node>
+</node>
+<node CREATED="1613056737985" ID="ID_732532100" MODIFIED="1613056748368" TEXT="the prevalence of short-term thinking">
+<node CREATED="1613056769953" ID="ID_1391981687" MODIFIED="1613056782395" TEXT="fund managers judged on a short timescale">
+<node CREATED="1613056782396" ID="ID_922437036" MODIFIED="1613056793052" TEXT="cannot afford to seem wrong"/>
+<node CREATED="1613056793457" ID="ID_420686042" MODIFIED="1613056798923" TEXT="&apos;closet indexation&apos;"/>
+<node CREATED="1613056815412" ID="ID_703901879" MODIFIED="1613056824143" TEXT="an advantage for the DIY investor"/>
+</node>
+</node>
+<node CREATED="1613056889651" ID="ID_1018490698" MODIFIED="1613056895935" TEXT="corporate performance">
+<node CREATED="1613056914237" ID="ID_6637370" MODIFIED="1613056924881" TEXT="&apos;earnings guidance&apos;">
+<node CREATED="1613056924882" ID="ID_79221270" MODIFIED="1613056938430" TEXT="analysts and fund managers rely on these">
+<node CREATED="1613056996679" ID="ID_1320401747" MODIFIED="1613057822615" TEXT="senior managers jobs now depend on share price"/>
+</node>
+<node CREATED="1613057022450" ID="ID_996406245" MODIFIED="1613057038735" TEXT="seek steady growth just faster than anticipated"/>
+<node CREATED="1613057054115" ID="ID_1514650615" MODIFIED="1613057108214" TEXT="the market doesn&apos;t respond to good/bad news">
+<node CREATED="1613057069183" ID="ID_295108012" MODIFIED="1613057078623" TEXT="but news that is better/worse than expectations"/>
+</node>
+<node CREATED="1613057111796" ID="ID_578168475" MODIFIED="1613057807349" TEXT="often little bearing on company performance">
+<node CREATED="1613057121209" ID="ID_504210143" MODIFIED="1613057139005" TEXT="eventually fundamental value breaks through"/>
+</node>
+</node>
+</node>
+<node CREATED="1613057269552" ID="ID_1181939994" MODIFIED="1613057796761" TEXT="the intelligent investors advantage">
+<icon BUILTIN="idea"/>
+<node CREATED="1613057312671" ID="ID_1534697049" MODIFIED="1613057332719" TEXT="no worries about consequences of short-term performance">
+<node CREATED="1613057351615" ID="ID_212445861" MODIFIED="1613057360299" TEXT="focus on absolute, not relative returns"/>
+</node>
+<node CREATED="1613057368429" ID="ID_694795272" MODIFIED="1613057374033" TEXT="can focus on fundamental value"/>
+<node CREATED="1613057464611" ID="ID_1368034728" MODIFIED="1613057465568" TEXT="reconciliation between the mark-to-market and fundamental-value principles">
+<node CREATED="1613057470974" ID="ID_459063857" MODIFIED="1613057472113" TEXT="an asset is worth the higher of its fundamental value and its market price"/>
+<node CREATED="1613057670723" ID="ID_598035210" MODIFIED="1613057671385" TEXT="For the professional fund manager, the mark-to-market principle rules"/>
+</node>
+</node>
+</node>
 <node CREATED="1610286576539" ID="ID_1642522525" MODIFIED="1610286578875" POSITION="right" TEXT="glossary">
 <node CREATED="1610286578876" ID="ID_838658339" MODIFIED="1610286590050" TEXT="financial institutions">
 <node CREATED="1610286590051" ID="ID_1494650066" MODIFIED="1610286592665" TEXT="retail banks">
